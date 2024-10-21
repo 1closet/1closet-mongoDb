@@ -1,0 +1,22 @@
+{
+  "name": "1closet-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jenifer Placido",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2",
+    "pdfkit": "^0.15.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
